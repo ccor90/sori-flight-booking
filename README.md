@@ -64,13 +64,7 @@ This is a fully working system handling real-world booking flows:
 - Backend: Supabase (database, auth, edge functions)
 - Payments: Stripe
 - Flight data and booking: Duffel API
-- Email: Resend
-
----
-
-## Screenshots
-
-(Add screenshots: search, results, payment, confirmation)
+- Email: Resendok i
 
 ---
 
