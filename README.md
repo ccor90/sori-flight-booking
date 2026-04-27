@@ -60,40 +60,95 @@ This is a fully working system handling real-world booking flows:
 
 ## Screenshots
 
-End-to-end booking flow from search → payment → confirmation using live flight data and real transactions.
+End-to-end booking flow using live flight data and real payments.
 
-**Confirmation (Real Booking)**  
-![Confirmation](./screenshots/confirmation.jpg)
+---
 
-**Email Confirmation**  
-![Email Confirmation](./screenshots/email-confirmation.jpg)
+### 1. Search
 
-**Search**  
-![Search](./screenshots/search.jpg)
+<p align="center">
+  <img src="./screenshots/search.jpg" width="300"/>
+</p>
 
-**Results (Filters & Sorting)**  
-![Results Filters](./screenshots/results-filters.jpg)
+---
 
-**Results (Flight Options)**  
-![Results List](./screenshots/results-list.jpg)
+### 2. Results (Filters & Sorting)
 
-**Travellers**  
-![Travellers](./screenshots/travellers.jpg)
+<p align="center">
+  <img src="./screenshots/results-filters.jpg" width="300"/>
+</p>
 
-**Review**  
-![Review](./screenshots/review.jpg)
+---
 
-**Payment**  
-![Payment](./screenshots/payment.jpg)
+### 3. Results (Flight Options)
 
-**Trips (Upcoming)**  
-![Trip Upcoming](./screenshots/trip-upcoming.jpg)
+<p align="center">
+  <img src="./screenshots/results-list.jpg" width="300"/>
+</p>
 
-**Trips (On Trip)**  
-![Trip On Trip](./screenshots/trip-ontrip.jpg)
+---
 
-**Trips (Countdown State)**  
-![Trip Countdown](./screenshots/trip-countdown.jpg)
+### 4. Travellers
+
+<p align="center">
+  <img src="./screenshots/travellers.jpg" width="300"/>
+</p>
+
+---
+
+### 5. Review
+
+<p align="center">
+  <img src="./screenshots/review.jpg" width="300"/>
+</p>
+
+---
+
+### 6. Payment
+
+<p align="center">
+  <img src="./screenshots/payment.jpg" width="300"/>
+</p>
+
+---
+
+### 7. Confirmation (Real Booking)
+
+<p align="center">
+  <img src="./screenshots/confirmation.jpg" width="300"/>
+</p>
+
+---
+
+### 8. Email Confirmation
+
+<p align="center">
+  <img src="./screenshots/email-confirmation.jpg" width="300"/>
+</p>
+
+---
+
+### 9. Trips (Upcoming)
+
+<p align="center">
+  <img src="./screenshots/trip-upcoming.jpg" width="300"/>
+</p>
+
+---
+
+### 10. Trips (On Trip)
+
+<p align="center">
+  <img src="./screenshots/trip-ontrip.jpg" width="300"/>
+</p>
+
+---
+
+### 11. Trips (Countdown State)
+
+<p align="center">
+  <img src="./screenshots/trip-countdown.jpg" width="300"/>
+</p>
 
 ---
 
